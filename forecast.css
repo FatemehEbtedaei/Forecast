@@ -1,0 +1,116 @@
+body {
+
+    background: linear-gradient(178deg, rgba(201, 234, 252, 0.51) 14.9%, rgba(113, 172, 199, 0.73) 80%);
+}
+
+ul {
+    list-style: none;
+    margin-top: 20px;
+}
+
+form {
+    margin: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.code {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    color: black;
+    font-family: 'EB Garamond', serif;
+}
+
+.code:hover {
+    color: blue;
+}
+
+.comtainer {
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+    display: block;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 30px;
+    background-color: white;
+}
+
+.emoji {
+    width: 50px;
+}
+
+.cityinput {
+    padding: 5px;
+    border-radius: 4px;
+}
+
+.searchbutton {
+    padding: 5px 8px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    transition: all 200ms ease-in-out;
+    font-family: 'EB Garamond', serif;
+}
+
+.searchbutton:hover {
+    background-color: gainsboro;
+    color: black;
+}
+
+.city {
+    font-size: 40px;
+    padding-top: 7px;
+    font-family: 'EB Garamond', serif;
+}
+
+.tepmerature {
+    font-size: 50px;
+    font-family: 'EB Garamond', serif;
+}
+
+.humidity {
+    padding: 7px;
+    font-family: 'EB Garamond', serif;
+}
+
+.speed {
+    margin-top: 5px;
+    font-family: 'EB Garamond', serif;
+}
+
+.description {
+    font-family: 'EB Garamond', serif;
+}
+
+.date {
+    font-family: 'EB Garamond', serif;
+}
+.dailyForecast{
+    border: 2px solid rgba(110, 190, 247, 0.761);
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    max-width: 500px;
+    margin: 20px auto;
+    display: block;
+}
+.dayStyle{
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+}
+.min{
+    font-family: 'EB Garamond', serif;
+    font-size: 15px;
+}
+.max{
+font-family: 'EB Garamond', serif;
+    font-size: 15px;
+}
+.icon{
+    width: 45px;
+}
